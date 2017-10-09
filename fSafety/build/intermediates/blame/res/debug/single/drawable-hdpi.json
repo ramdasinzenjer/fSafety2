@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Project\\fSafety2\\fSafety\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\Project\\fSafety2\\fSafety\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Project\\fSafety2\\fSafety\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fire_bg.png",
+        "source": "C:\\Users\\user\\Desktop\\Project\\fSafety2\\fSafety\\src\\main\\res\\drawable-hdpi\\fire_bg.png"
+    },
+    {
+        "merged": "F:\\projects_ramm\\fSafety2\\fSafety\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\projects_ramm\\fSafety2\\fSafety\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\projects_ramm\\fSafety2\\fSafety\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fire_bg.png",
+        "source": "F:\\projects_ramm\\fSafety2\\fSafety\\src\\main\\res\\drawable-hdpi\\fire_bg.png"
+    }
+]
